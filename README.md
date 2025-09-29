@@ -16,4 +16,15 @@ url [localthost/](http://localhost/api.php/guitar_store)
 }
 หากต้องการ DELETE ID = 22 =>> DELETE http://localhost/api.php/guitar_store/22
 
+ตัวอย่างการ GET all
 <img width="846" height="804" alt="image" src="https://github.com/user-attachments/assets/55f6b93b-d71a-417c-8e7a-f4f201398f4b" />
+
+ตัวอย่างการ GET ID
+<img width="829" height="699" alt="image" src="https://github.com/user-attachments/assets/6e155c64-a934-4269-b1de-10429f2d6b88" />
+
+ตัวอย่างการ PATCH
+Before
+<img width="875" height="694" alt="image" src="https://github.com/user-attachments/assets/b0073e11-4015-4b86-8b0b-6ac93503923b" />
+<img width="849" height="644" alt="image" src="https://github.com/user-attachments/assets/26b7f6b3-12b6-4421-ba5e-560837f0ada2" />
+
+After
